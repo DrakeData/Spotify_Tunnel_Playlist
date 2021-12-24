@@ -1,0 +1,5 @@
+config.py
+data.json
+.cache
+.ipynb_checkpoints
+__pycache__
